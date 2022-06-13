@@ -1,0 +1,20 @@
+{
+  "name": "WordFave",
+  "displayName": "WordFave",
+  "expo": {
+    "name": "WordFave",
+    "slug": "WordFave",
+    "version": "0.1.5",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait",
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.yplabs.wordfave"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yplabs.wordfave"
+    }
+  }
+}
